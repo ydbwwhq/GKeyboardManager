@@ -7,7 +7,7 @@ ios8.0+
 ## Installation with pod
 GKeyboardManager (Objective-C): GKeyboardManager is available through CocoaPods, to install it simply add the following line to your Podfile
 ```
-pod 'IQKeyboardManager'
+pod 'GKeyboardManager'
 ```
 ## Installation with Source Code
 
